@@ -1,0 +1,12 @@
+{
+  "name": "empty-js",
+  "version": "1.0.0",
+  "description": "Empty JS app",
+  "main": "index.js",
+  "repository": "git@github.com:DXHeroes/empty-js.git",
+  "author": "Prokop Simek <prokop.simek@applifting.cz>",
+  "license": "MIT",
+  "dependencies": {
+    "node": "0.0.0"
+  }
+}

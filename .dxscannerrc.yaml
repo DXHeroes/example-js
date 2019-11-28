@@ -1,0 +1,9 @@
+practices:
+  JavaScript.LoggerUsed: off
+  JavaScript.PackageJsonConfigurationSetCorrectly: off
+  JavaScript.ESLintUsed: off
+  JavaScript.ESLintWithoutErrorsPractice: off
+  JavaScript.TypeScriptUsed: off
+  JavaScript.DependenciesVersionMajorLevel: off
+  JavaScript.DependenciesVersionMinorPatchLevel: off
+  LanguageIndependent.ReadmeIsPresent: off
